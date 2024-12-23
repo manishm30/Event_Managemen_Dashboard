@@ -1,0 +1,103 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "John Doe",
+      "email": "john@example.com"
+    },
+    {
+      "id": "7a72",
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "8c50",
+      "name": "hello",
+      "email": "hello@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "2f2c",
+      "name": "Manish ",
+      "email": "manish@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "00e3",
+      "name": "Manish ",
+      "email": "manish@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "98c3",
+      "name": "hello",
+      "email": "manish@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "a106",
+      "name": "Manish ",
+      "email": "manish@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "0c23",
+      "name": "Manish ",
+      "email": "manish@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "6dbc",
+      "name": "Manish ",
+      "email": "manish@gmail.com",
+      "password": "12345"
+    },
+    {
+      "id": "ebed",
+      "name": "Manish ",
+      "email": "manish@gmail.com",
+      "password": "12345"
+    }
+  ],
+  "events": [
+    {
+      "id": "da31",
+      "title": "Meeting",
+      "description": "discussion on review ",
+      "date": "2024-12-24",
+      "time": "19:17",
+      "venue": "office"
+    }
+  ],
+  "attendees": [
+    {
+      "name": "Aniruddha",
+      "email": "aniruddha@yahoo.com",
+      "id": "2"
+    },
+    {
+      "name": "Suprit",
+      "email": "suprit@yahoo.com",
+      "id": "1505"
+    },
+    {
+      "name": "kiran",
+      "email": "manish@gmail.com",
+      "id": "7126"
+    }
+  ],
+  "tasks": [
+    {
+      "id": "2b82",
+      "name": "to create header section",
+      "deadline": "2024-12-25",
+      "status": "Pending",
+      "assignedTo": "Aniruddha"
+    },
+    {
+      "status": "Completed",
+      "id": "0931"
+    }
+  ]
+}
