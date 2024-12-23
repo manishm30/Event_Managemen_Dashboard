@@ -5,6 +5,40 @@ https://github.com/user-attachments/assets/622f446b-f1ed-4604-93ee-02df2ce9afee
 
 
 
+Instructions to set up and run the project.
+
+1) create a folder and open the folder in visual studio code
+2) click on new terminal
+3) type npx create-react-app appname
+4) cd app name
+5) if setting up tailwindcss type: npm install -D tailwindcss postcss autoprefixer
+6) npx tailwindcss init
+7) add  "./src/**/*.{js,jsx,ts,tsx}", in tailwind.config.js under content["./src/**/*.{js,jsx,ts,tsx}",]
+8) in src/index.css type
+    @tailwind base;
+    @tailwind components;
+    @tailwind utilities;
+9) create components and pages as needed
+10) create db.json file for storing the details
+11) open terminal and type: json-server --watch db.json --port 3001
+12) open new terminal and type npm start
+
+
+
+
+
+Steps to Execute the project 
+
+1)clone the repositorie: git clone https://github.com/username/repo-name.git
+2)cd repo-name
+3)check all the files are there 
+4)install node modules: npm i
+5)open new terminal and run: json-server --watch db.json --port 3001
+6)check for the directory and open another terminal and run npm start
+
+
+
+
 
 
 
